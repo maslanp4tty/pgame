@@ -1,5 +1,5 @@
-Nama : Maslan M. Patty
-NPM : 16061
+### Nama : Maslan M. Patty
+### NPM : 16061
 ________________________________________
 Materi Seminar I
 Waktu : 10/12/2019 : 09.45
@@ -130,7 +130,7 @@ Judul Materi : The fundamentals and the roles in the 4th industrial revolution
 ________________________________________
 Isi Materi :
 
-Dalam materi ke 2 ini kita diperkenalkan dengan “The fundamentals and the roles in the 4th industrial revolution”
+Dalam materi ke 2 ini kita diperkenalkan dengan Â“The fundamentals and the roles in the 4th industrial revolutionÂ”
 atau  Dasar-dasar dan peran dalam revolusi industri ke-4. Sebelum melangkah ke step selanjutnya kita ahrus tahu apa itu industry ke-4
 Jadi Revolusi industri 4.0 bisa dikatakan berawal dari strategi pemerintah Jerman pada tahun 2011 dalam 
 hal produksi, yang memfokuskan komputerisasi dalam proses manufakturnya. Pemerintah Jerman
@@ -140,8 +140,8 @@ campur tangan manusia dalam operasinya.
 
 Selanjutnya Dasar-dasar dan peran dalam revolusi industri ke-4 mencangkup sebagai berikut
 
-1. data adalah kumpulan informasi atau keterangan – keterangan dari suatu hal yang diperoleh
- melalui pengamatan atau pencarian ke sumber – sumber tertentu. Data yang diperoleh dapat 
+1. data adalah kumpulan informasi atau keterangan Â– keterangan dari suatu hal yang diperoleh
+ melalui pengamatan atau pencarian ke sumber Â– sumber tertentu. Data yang diperoleh dapat 
 menjadi suatu anggapan atau fakta karena memang belum diolah lebih lanjut. Setelah diolah 
 melalui penelitian atau percobaan maka suatu data dapat menjadi bentuk yang lebih kompleks 
 seperti suatu database, informasi atau bahkan solusi untuk masalah tertentu. 
@@ -238,7 +238,7 @@ seringkali dalam kaitannya dengan kejahatan komputer . The forensik digital Isti
 awalnya digunakan sebagai sinonim untuk forensik komputer tetapi telah diperluas untuk 
 mencakup penyelidikan semua perangkat yang mampu menyimpan data digital.
 Digital Forensik adalah suatu ilmu pengetahuan dan keahlian untuk mengidentifikasi, 
-mengoleksi, menganalisa dan menguji bukti–bukti digital pada saat menangani sebuah kasus 
+mengoleksi, menganalisa dan menguji buktiÂ–bukti digital pada saat menangani sebuah kasus 
 yang memerlukan penanganan dan identifikasi barang bukti digital.
 
 Digital forensik investigasi memiliki berbagai aplikasi. Yang paling umum adalah untuk 
